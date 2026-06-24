@@ -1,8 +1,18 @@
 # pytrials-v2
 
+[![PyPI](https://img.shields.io/pypi/v/pytrials-v2.svg)](https://pypi.org/project/pytrials-v2/)
+
 A modern, fully-typed Python SDK for the [ClinicalTrials.gov API v2](https://clinicaltrials.gov/data-api/api).
 
-> Status: early development. See [PROJECT_PLAN.md](./PROJECT_PLAN.md) for the full design and roadmap.
+> Status: early development (v0.1 core shipped). See [PROJECT_PLAN.md](./PROJECT_PLAN.md) for the full design and roadmap.
+
+## Install
+
+```bash
+pip install pytrials-v2
+```
+
+Try it without installing: [live search playground](https://pytrials.pyaarproject.org).
 
 ## Why
 
