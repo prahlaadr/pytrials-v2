@@ -28,3 +28,7 @@ site/
 # marimo wasm build output
 demo/dist/
 .vercel/
+
+# build artifacts
+dist/
+*.egg-info/
