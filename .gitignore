@@ -24,3 +24,7 @@ htmlcov/
 .vscode/
 # docs build
 site/
+
+# marimo wasm build output
+demo/dist/
+.vercel/
