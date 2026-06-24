@@ -1,0 +1,39 @@
+{
+  "studies": [
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT04852770",
+          "briefTitle": "A Study of Drug X in Patients With Advanced Breast Cancer",
+          "officialTitle": "A Phase 3, Randomized Study of Drug X Versus Standard of Care in Patients With Advanced Breast Cancer",
+          "organization": {
+            "fullName": "Example Oncology Group",
+            "class": "INDUSTRY"
+          }
+        },
+        "statusModule": {
+          "overallStatus": "RECRUITING",
+          "statusVerifiedDate": "2024-01"
+        },
+        "sponsorCollaboratorsModule": {
+          "leadSponsor": {
+            "name": "Example Oncology Group",
+            "class": "INDUSTRY"
+          },
+          "collaborators": []
+        },
+        "conditionsModule": {
+          "conditions": ["Breast Cancer", "Metastatic Breast Cancer"],
+          "keywords": ["oncology", "HER2"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": ["PHASE3"]
+        }
+      },
+      "hasResults": false
+    }
+  ],
+  "nextPageToken": "abc",
+  "totalCount": 1234
+}
