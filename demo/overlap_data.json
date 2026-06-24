@@ -1,0 +1,95 @@
+{
+  "source_year": 2023,
+  "companies": [
+    {
+      "company": "Pfizer",
+      "trials": 6047,
+      "payments_2023": 36898273,
+      "payment_records": 152463
+    },
+    {
+      "company": "Novartis",
+      "trials": 5043,
+      "payments_2023": 16700900,
+      "payment_records": 92161
+    },
+    {
+      "company": "GSK",
+      "trials": 4921,
+      "payments_2023": 35368480,
+      "payment_records": 101475
+    },
+    {
+      "company": "AstraZeneca",
+      "trials": 4755,
+      "payments_2023": 85953802,
+      "payment_records": 127643
+    },
+    {
+      "company": "Merck",
+      "trials": 4256,
+      "payments_2023": 22268979,
+      "payment_records": 102856
+    },
+    {
+      "company": "Sanofi",
+      "trials": 3410,
+      "payments_2023": 12149319,
+      "payment_records": 45983
+    },
+    {
+      "company": "Bristol-Myers Squibb",
+      "trials": 2908,
+      "payments_2023": 31717900,
+      "payment_records": 58502
+    },
+    {
+      "company": "Eli Lilly",
+      "trials": 2884,
+      "payments_2023": 44462969,
+      "payment_records": 110676
+    },
+    {
+      "company": "Boehringer Ingelheim",
+      "trials": 2649,
+      "payments_2023": 22594681,
+      "payment_records": 78369
+    },
+    {
+      "company": "Johnson & Johnson (Janssen)",
+      "trials": 2535,
+      "payments_2023": 51245750,
+      "payment_records": 132066
+    },
+    {
+      "company": "Takeda",
+      "trials": 1976,
+      "payments_2023": 55483057,
+      "payment_records": 51258
+    },
+    {
+      "company": "Genentech (Roche)",
+      "trials": 1653,
+      "payments_2023": 67904429,
+      "payment_records": 23864
+    },
+    {
+      "company": "Amgen",
+      "trials": 1584,
+      "payments_2023": 26813868,
+      "payment_records": 103985
+    },
+    {
+      "company": "AbbVie",
+      "trials": 1435,
+      "payments_2023": 188514343,
+      "payment_records": 250846
+    },
+    {
+      "company": "Gilead Sciences",
+      "trials": 1247,
+      "payments_2023": 36066175,
+      "payment_records": 30998
+    }
+  ]
+}
